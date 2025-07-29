@@ -5,7 +5,7 @@
 - 🔍 Skilled in Manual Testing, API Testing (Postman, Newman)
 - 🧪 Familiar with Performance & Security Testing (JMeter, Nmap)
 - 🛠 Tools: Jira, Git, GitHub, Postman, JMeter
--#🔧 Web Automation Skills:
+- 🔧 Web Automation Skills:
 - **Selenium WebDriver**
 - **Maven**
 - **TestNG**
