@@ -5,6 +5,11 @@
 - 🔍 Skilled in Manual Testing, API Testing (Postman, Newman)
 - 🧪 Familiar with Performance & Security Testing (JMeter, Nmap)
 - 🛠 Tools: Jira, Git, GitHub, Postman, JMeter
+🔧 Web Automation Skills
+- **Selenium WebDriver**
+- **Maven**
+- **TestNG**
+- **Data-Driven Testing**
 - 📱 Projects: [Picky](https://www.picky.com.bd/), Mahfil App,Evaly, Booking API
 
 💡 I believe in "Quality First" and strive to improve user experience through effective testing!
