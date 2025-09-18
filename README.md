@@ -18,4 +18,4 @@
 📧 sabina.prothoma@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sabina-sultana-prothoma)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prothoma-bd&show_icons=true&theme=radical)
+https://github.com/prothoma-bd
